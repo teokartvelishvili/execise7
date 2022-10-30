@@ -1,0 +1,18 @@
+.html{
+    font-size: 16px;
+}
+section.intro {
+    font-size: 18px; 
+    color: bisque;
+    max-width: 900px;
+    padding: 48px;
+    background-color: #18354a;
+    border: 1px solid lightgray;
+    margin: 32px auto;
+    box-sizing: border-box;
+}
+.intro
+{
+    box-sizing: content-box;
+    box-sizing: border-box;
+}
